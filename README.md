@@ -4,6 +4,8 @@ The work-in-progress specification for OpenDPM, the open-source distributed pass
 
 **Caution:** everything here is a WIP. There is ***a lot*** missing, and tons of half baked ideas and incomplete documentation. This repository is solely a place to push the nightly work from my hard drive. Don't bother trying to make sense of this now.
 
+**Note:** I'm not accepting pull requests for this repository until it's sufficiently complete.
+
 ## Quick Rundown of OpenDPM
 
 **Caution:** This is incomplete, rough garbage that skips over a lot of important details. Also subject to change.
